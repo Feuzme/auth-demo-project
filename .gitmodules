@@ -1,0 +1,3 @@
+[submodule "spring-auth-demo"]
+	path = spring-auth-demo
+	url = https://github.com/kilrasemifir/spring-auth-demo.git
