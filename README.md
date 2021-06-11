@@ -1,4 +1,4 @@
-# Projet demo avec un systeme simple d'utilisation 
+# Projet demo avec un systeme simple d'authentification
 
 ## Instalation 
 //TODO
